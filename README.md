@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashwani Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="300" hight="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3I1gJIuBBdZwLGp7675DbR&ust=1708767906950000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCZyYqYwYQDFQAAAAAdAAAAABAF">
+<img align="right" alt="Coding" width="300" hight="300" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
 
 - 🔭 I’m currently working on [Apna PG](https://www.apnapg.co/)
