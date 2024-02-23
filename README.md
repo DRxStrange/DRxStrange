@@ -1,11 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ashwani Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img align="right" alt="Coding" width="100" hight="100" src="https://media1.giphy.com/media/9LQHvkbIzTSLe/giphy.webp?cid=ecf05e47qn2kc5aqts3f93x58baoscyu8uc5x3tmz09zdpzi&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+<img align="right" alt="Coding" width="100" hight="100" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drxstrange&label=Profile%20views&color=0e75b6&style=flat" alt="drxstrange" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drxstrange" alt="drxstrange" /></a> </p>
 
 - 🔭 I’m currently working on [Apna PG](https://www.apnapg.co/)
 
